@@ -24,7 +24,7 @@ FitBuddy is an AI-powered fitness guidance assistant designed to help users achi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Fushiguro11/FitBuddy.git
+   git clone https://github.com/NarutoUchiha11/FitBuddy.git
 
 
 2. Navigate to the project directory:
